@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "superstore", "superstore\superstore.dtproj", "{B16BAC2A-7C86-492E-B3A5-7F1CD10362D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16BAC2A-7C86-492E-B3A5-7F1CD10362D3}.Development|Default.ActiveCfg = Development
+		{B16BAC2A-7C86-492E-B3A5-7F1CD10362D3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A293891E-C53C-480F-A69F-451FBBA586B6}
+	EndGlobalSection
+EndGlobal
